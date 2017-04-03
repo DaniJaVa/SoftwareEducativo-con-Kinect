@@ -1,0 +1,51 @@
+﻿<Window x:Class="K4WHelloWorld.MainWindow"      
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:K4WHelloWorld"
+        mc:Ignorable="d"
+        Title="Software Educativo" WindowState="Maximized" WindowStyle="SingleBorderWindow" Icon="image/ardilla.png">
+    <Grid>
+        <TextBlock Text="Software Educativo" FontSize="66.667" Margin="562,134,-272.4,-134.4" FontFamily="Vivaldi"/>
+        <TextBlock Text="Materia: Geografía" FontSize="33.333" Margin="652,222,-362.4,-222.4"/>
+        <Image Source="image/ardilla.png"  HorizontalAlignment="Right" Width="181" VerticalAlignment="Top" Height="167" Margin="0,35,-0.4,0" />
+        <k:KinectRegion Name="KinectRegion">
+            <Grid Height="576.617" Margin="10,0,-10.4,110.6" VerticalAlignment="Center">
+                <k:KinectScrollViewer Name="scrollViewer" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Height="386" VerticalAlignment="Bottom" Margin="0,0,0,9" >
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="wrapPanel" Orientation="Horizontal">
+                        <k:KinectTileButton Label="Globo terráqueo" Click="Button1_Click" Width="254" HorizontalLabelAlignment="Center">
+                            <k:KinectTileButton.Background>
+                                <ImageBrush ImageSource="image/globo.png"/>
+                            </k:KinectTileButton.Background>
+                        </k:KinectTileButton>
+                        <k:KinectTileButton Label="México" Click="Button2_Click" Width="254" HorizontalLabelAlignment="Center">
+                            <k:KinectTileButton.Background>
+                                <ImageBrush ImageSource="image/mexico.png"/>
+                            </k:KinectTileButton.Background>
+                        </k:KinectTileButton>
+                        <k:KinectTileButton Label="América" Click="Button3_Click" Width="254" HorizontalLabelAlignment="Center">
+                            <k:KinectTileButton.Background>
+                                <ImageBrush ImageSource="image/america.png"/>
+                            </k:KinectTileButton.Background>
+                        </k:KinectTileButton>
+                        <!--<k:KinectTileButton Label="4" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="5" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="6" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="7" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="8" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="9" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="10" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="11" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="12" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="13" Click="Button1_Click"></k:KinectTileButton>
+                        <k:KinectTileButton Label="14" Click="Button1_Click"></k:KinectTileButton>-->
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+                <k:KinectUserViewer DefaultUserColor="Gray" PrimaryUserColor="Gray" Name="UserViewer" Height="150" VerticalAlignment="Top" HorizontalAlignment="Left" Width="200"/>
+            </Grid>
+        </k:KinectRegion>
+        <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="SensorChooserUI"></k:KinectSensorChooserUI>
+    </Grid>
+</Window>

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+
+  <dominica>
+    <pais>Republica Dominicana</pais>
+    <area>250,670 KM²</area>
+    <poblacion>9'980,243 habitantes</poblacion>
+    <capital>Santo Domingo</capital>
+    <idioma>Español</idioma>
+    <flagName>dominica.png</flagName>
+  </dominica>
+
+  <groenlandia>
+    <pais>Groenlandia</pais>
+    <area>2'166,086 KM²</area>
+    <poblacion>61,100 habitantes</poblacion>
+    <capital>Nuuk</capital>
+    <idioma>Groenlandés</idioma>
+    <flagName>groelandia.png</flagName>
+  </groenlandia>
+
+  <alaska>
+    <pais>Alaska</pais>
+    <area>1'717,854 KM²</area>
+    <poblacion>722,718 habitantes</poblacion>
+    <capital>Juneau</capital>
+    <idioma>Inglés</idioma>
+    <flagName>alaska.png</flagName>
+  </alaska>
+
+  <canada>
+    <pais>Canadá</pais>
+    <area>9'984,670 KM²</area>
+    <poblacion>35'749,600 habitantes</poblacion>
+    <capital>Ottawa</capital>
+    <idioma>Inglés, Francés</idioma>
+    <flagName>canada.png</flagName>
+  </canada>
+
+  <usa>
+    <pais>Estados Unidos</pais>
+    <area>9'371,174 KM²</area>
+    <poblacion>316'017,000 habitantes</poblacion>
+    <capital>Washington D. C.</capital>
+    <idioma>Inglés</idioma>
+    <flagName>usa.png</flagName>
+  </usa>
+
+  <mexico>
+    <pais>Estados Unidos Mexicanos</pais>
+    <area>1'964,375 KM²</area>
+    <poblacion>119'530,753 habitantes</poblacion>
+    <capital>Ciudad de México</capital>
+    <idioma>Español</idioma>
+    <flagName>mex.png</flagName>
+  </mexico>
+
+  <cuba>
+    <pais>República de Cuba</pais>
+    <area>109,884 01 KM²</area>
+    <poblacion>11'238,317 habitantes</poblacion>
+    <capital>La Habana</capital>
+    <idioma>Español</idioma>
+    <flagName>cuba.png</flagName>
+  </cuba>
+
+  <haiti>
+    <pais>República de Haiti</pais>
+    <area>27,750 KM²</area>
+    <poblacion>10'033,000 habitantes</poblacion>
+    <capital>Puerto Príncipe</capital>
+    <idioma>Criollo haitiano, Francés</idioma>
+    <flagName>haiti.png</flagName>
+  </haiti>
+
+  <puertorico>
+    <pais>Puerto Rico</pais>
+    <area>9,104 KM²</area>
+    <poblacion>3'548,397 habitantes</poblacion>
+    <capital>San Juan</capital>
+    <idioma>Español, Inglés</idioma>
+    <flagName>puertorico.png</flagName>
+  </puertorico>
+
+  <jamaica>
+    <pais>Jamaica</pais>
+    <area>10,991 KM²</area>
+    <poblacion>2'889,187 habitantes</poblacion>
+    <capital>Kingston</capital>
+    <idioma>Inglés, Criollo</idioma>
+    <flagName>jamaica.png</flagName>
+  </jamaica>
+
+  <colombia>
+    <pais>República de Colombia</pais>
+    <area>1'141,748 KM²</area>
+    <poblacion>48'747,632 habitantes</poblacion>
+    <capital>Bogotá</capital>
+    <idioma>Español</idioma>
+    <flagName>colombia.png</flagName>
+  </colombia>
+
+  <venezuela>
+    <pais>Venezuela</pais>
+    <area>916,445 KM²</area>
+    <poblacion>31'028,337 habitantes</poblacion>
+    <capital>Caracas</capital>
+    <idioma>Español</idioma>
+    <flagName>venezuela.png</flagName>
+  </venezuela>
+
+  <venezuela>
+    <pais>Venezuela</pais>
+    <area>916,445 KM²</area>
+    <poblacion>31'028,337 habitantes</poblacion>
+    <capital>Caracas</capital>
+    <idioma>Español</idioma>
+    <flagName>venezuela.png</flagName>
+  </venezuela>
+
+  <ecuador>
+    <pais>República del Ecuador</pais>
+    <area>283,561 KM²</area>
+    <poblacion>16'298,217 habitantes</poblacion>
+    <capital>Quito</capital>
+    <idioma>Español</idioma>
+    <flagName>ecuador.png</flagName>
+  </ecuador>
+
+  <guyana>
+    <pais>Guyana</pais>
+    <area>214,970 KM²</area>
+    <poblacion>801,194 habitantes</poblacion>
+    <capital>Georgetown</capital>
+    <idioma>Inglés</idioma>
+    <flagName>guyana.png</flagName>
+  </guyana>
+
+  <guyanaf>
+    <pais>Guyana Francesa</pais>
+    <area>91,312 KM²</area>
+    <poblacion>259,109 habitantes</poblacion>
+    <capital>Cayena</capital>
+    <idioma>Francés</idioma>
+    <flagName>guyanaf.png</flagName>
+  </guyanaf>
+
+  <surinam>
+    <pais>República de Surinam</pais>
+    <area>163,820 KM²</area>
+    <poblacion>551,000 habitantes</poblacion>
+    <capital>Paramaribo</capital>
+    <idioma>Neerlandés</idioma>
+    <flagName>surinam.png</flagName>
+  </surinam>
+
+  <peru>
+    <pais>República del Perú</pais>
+    <area>1'285,216.20 KM²</area>
+    <poblacion>31'151,643 habitantes</poblacion>
+    <capital>Lima</capital>
+    <idioma>Español, Quechua, Aimara</idioma>
+    <flagName>peru.png</flagName>
+  </peru>
+
+  <brasil>
+    <pais>Brasil</pais>
+    <area>8'514,877 KM²</area>
+    <poblacion>204'450,649 habitantes</poblacion>
+    <capital>Brasilia</capital>
+    <idioma>Portugués</idioma>
+    <flagName>brasil.png</flagName>
+  </brasil>
+
+  <bolivia>
+    <pais>Bolivia</pais>
+    <area>1'098,581 KM²</area>
+    <poblacion>10'027,254 habitantes</poblacion>
+    <capital>Sucre</capital>
+    <idioma>Español, Quechua, Aimara, Guaraní</idioma>
+    <flagName>bolivia.png</flagName>
+  </bolivia>
+
+  <chile>
+    <pais>República de Chile</pais>
+    <area>756,102.4 KM²</area>
+    <poblacion>18'191,884 habitantes</poblacion>
+    <capital>Santiago</capital>
+    <idioma>Español</idioma>
+    <flagName>chile.png</flagName>
+  </chile>
+
+  <argentina>
+    <pais>República Argentina</pais>
+    <area>2'780,400 KM²</area>
+    <poblacion>43'131,966 habitantes</poblacion>
+    <capital>Buenos Aires</capital>
+    <idioma>Español o Castellano</idioma>
+    <flagName>argentina.png</flagName>
+  </argentina>
+
+  <uruguay>
+    <pais>Uruguay</pais>
+    <area>176,215 KM²</area>
+    <poblacion>3'286,314 habitantes</poblacion>
+    <capital>Montevideo</capital>
+    <idioma>Español</idioma>
+    <flagName>uruguay.png</flagName>
+  </uruguay>
+
+  <paraguay>
+    <pais>Paraguay</pais>
+    <area>406,752 KM²</area>
+    <poblacion>6'854,536 habitantes</poblacion>
+    <capital>Asunción</capital>
+    <idioma>Español, Guaraní</idioma>
+    <flagName>paraguay.png</flagName>
+  </paraguay>
+  
+  
+</countries>

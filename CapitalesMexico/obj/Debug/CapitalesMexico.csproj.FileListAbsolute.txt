@@ -1,0 +1,13 @@
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.csprojResolveAssemblyReference.cache
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\MainWindow.baml
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\MainWindow.g.cs
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\App.g.cs
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico_MarkupCompile.cache
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.g.resources
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.Properties.Resources.resources
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.csproj.GenerateResource.Cache
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\bin\Debug\CapitalesMexico.exe.config
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\bin\Debug\CapitalesMexico.exe
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\bin\Debug\CapitalesMexico.pdb
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.exe
+C:\Users\danis\OneDrive\Documentos\Visual Studio 2015\Projects\K4WHelloWorld\CapitalesMexico\obj\Debug\CapitalesMexico.pdb

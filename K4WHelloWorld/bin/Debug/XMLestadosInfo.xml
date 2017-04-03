@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+
+  <baja_california_sur>
+    <capital>La Paz</capital>
+    <municipios>5</municipios>
+    <flagName>baja_california_sur.png</flagName>
+  </baja_california_sur>
+
+  <baja_california>
+    <capital>Mexicali</capital>
+    <municipios>5</municipios>
+    <flagName>bajaCalifornia.png</flagName>
+  </baja_california>
+
+  <aguascalientes>
+    <capital>Aguascalientes</capital>
+    <municipios>11</municipios>
+    <flagName>aguascalientes.png</flagName>
+  </aguascalientes>
+
+  <campeche>
+    <capital>Campeche</capital>
+    <municipios>11</municipios>
+    <flagName>campeche.png</flagName>
+  </campeche>
+
+  <coahuila>
+    <capital>Saltillo</capital>
+    <municipios>38</municipios>
+    <flagName>coahuila.png</flagName>
+  </coahuila>
+
+  <colima>
+    <capital>Colima</capital>
+    <municipios>10</municipios>
+    <flagName>colima.png</flagName>
+  </colima>
+
+  <chiapas>
+    <capital>Tuxtla Gutiérrez</capital>
+    <municipios>118</municipios>
+    <flagName>chiapas.png</flagName>
+  </chiapas>
+
+  <chihuahua>
+    <capital>Chihuahua</capital>
+    <municipios>67</municipios>
+    <flagName>chihuahua.png</flagName>
+  </chihuahua>
+
+  <df>
+    <capital>Distrito Federal</capital>
+    <municipios>16 (Delegaciones)</municipios>
+    <flagName>df.png</flagName>
+  </df>
+
+  <durango>
+    <capital>Durango</capital>
+    <municipios>39</municipios>
+    <flagName>durango.jpg</flagName>
+  </durango>
+
+  <guanajuato>
+    <capital>Guanajuato</capital>
+    <municipios>46</municipios>
+    <flagName>guanajuato.png</flagName>
+  </guanajuato>
+
+  <guerrero>
+    <capital>Chilpancingo</capital>
+    <municipios>81</municipios>
+    <flagName>guerrero.png</flagName>
+  </guerrero>
+
+  <hidalgo>
+    <capital>Pachuca</capital>
+    <municipios>84</municipios>
+    <flagName>hidalgo.png</flagName>
+  </hidalgo>
+
+  <jalisco>
+    <capital>Guadalajara</capital>
+    <municipios>124</municipios>
+    <flagName>jalisco.png</flagName>
+  </jalisco>
+
+  <mexico>
+    <capital>Toluca</capital>
+    <municipios>125</municipios>
+    <flagName>mexico.png</flagName>
+  </mexico>
+
+  <michoacan>
+    <capital>Morelia</capital>
+    <municipios>113</municipios>
+    <flagName>michoacan.png</flagName>
+  </michoacan>
+
+  <morelos>
+    <capital>Cuernavaca</capital>
+    <municipios>33</municipios>
+    <flagName>morelos.png</flagName>
+  </morelos>
+
+  <nayarit>
+    <capital>Tepic</capital>
+    <municipios>20</municipios>
+    <flagName>nayarit.png</flagName>
+  </nayarit>
+
+  <nuevo_leon>
+    <capital>Monterrey</capital>
+    <municipios>51</municipios>
+    <flagName>nuevo_leon.png</flagName>
+  </nuevo_leon>
+
+  <oaxaca>
+    <capital>Oaxaca</capital>
+    <municipios>570</municipios>
+    <flagName>oaxaca.png</flagName>
+  </oaxaca>
+
+  <puebla>
+    <capital>Puebla</capital>
+    <municipios>217</municipios>
+    <flagName>puebla.png</flagName>
+  </puebla>
+
+  <queretaro>
+    <capital>Querétaro</capital>
+    <municipios>18</municipios>
+    <flagName>queretaro.png</flagName>
+  </queretaro>
+
+  <quintana_roo>
+    <capital>Chetumal</capital>
+    <municipios>8</municipios>
+    <flagName>quintana_roo.png</flagName>
+  </quintana_roo>
+
+  <san_luis_potosi>
+    <capital>San Luis Potosí</capital>
+    <municipios>58</municipios>
+    <flagName>san_luis_potosi.png</flagName>
+  </san_luis_potosi>
+
+  <sinaloa>
+    <capital>Culiacán</capital>
+    <municipios>18</municipios>
+    <flagName>sinaloa.png</flagName>
+  </sinaloa>
+
+  <sonora>
+    <capital>Hermosillo</capital>
+    <municipios>72</municipios>
+    <flagName>sonora.png</flagName>
+  </sonora>
+
+  <tabasco>
+    <capital>Vilahermosa</capital>
+    <municipios>17</municipios>
+    <flagName>tabasco.png</flagName>
+  </tabasco>
+
+  <tamaulipas>
+    <capital>Ciudad Victoria</capital>
+    <municipios>43</municipios>
+    <flagName>tamaulipas.png</flagName>
+  </tamaulipas>
+
+  <tlaxcala>
+    <capital>Tlaxcala</capital>
+    <municipios>60</municipios>
+    <flagName>tlaxcala.png</flagName>
+  </tlaxcala>
+
+  <veracruz>
+    <capital>Xalapa</capital>
+    <municipios>212</municipios>
+    <flagName>veracruz.jpg</flagName>
+  </veracruz>
+
+  <yucatan>
+    <capital>Mérida</capital>
+    <municipios>106</municipios>
+    <flagName>yucatan.png</flagName>
+  </yucatan>
+
+  <zacatecas>
+    <capital>Zacatecas</capital>
+    <municipios>58</municipios>
+    <flagName>zacatecas.png</flagName>
+  </zacatecas>
+</countries>
